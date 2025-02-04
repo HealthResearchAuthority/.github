@@ -21,11 +21,7 @@ We believe in the power of open-source development to foster innovation, collabo
 
 Following GDS guidelines, we are committed to making our source code open and reusable. This approach allows others to benefit from our work, learn from our experiences, and contribute to the continuous improvement of our projects.
 
-## Our Repositories
+## Contribution Guidelines
 
-To explore the code and understand how you can contribute to our open-source projects, please use the repository link <img src="../images/repo.png" alt="repository" width=20 height=20 />. This link will take you to the repository where you can browse the codebase and find detailed information in the README file.
-
-The README includes guidelines on how to contribute, ensuring that you can effectively collaborate with other contributors and help improve the project. Your contributions are valuable, and we encourage you to review these guidelines to get started.
-
-&copy; Copyright HRA 2024 | [Contact us](https://www.hra.nhs.uk/about-us/contact-us/)
+We welcome the contribution, please refer to the README file for each repository. The README includes guidelines on how to contribute, ensuring that you can effectively collaborate with other contributors and help improve the project. Your contributions are valuable, and we encourage you to review these guidelines to get started.
 
